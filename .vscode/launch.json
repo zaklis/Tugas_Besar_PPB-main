@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Tugas_Besar_PPB-main",
+            "cwd": "Tugas_Besar_PPB-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Tugas_Besar_PPB-main (profile mode)",
+            "cwd": "Tugas_Besar_PPB-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Tugas_Besar_PPB-main (release mode)",
+            "cwd": "Tugas_Besar_PPB-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
